@@ -1,0 +1,100 @@
+body{
+    font-family: sans-serif;
+}
+
+.grey{
+    background-color: rgb(232, 225, 225);
+  padding: 1em;
+    margin-top: 0;
+
+}
+.kelly
+{
+    color: rgba(0,0,0,.6);
+    font-size:2em;
+    margin: 0%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+.nav{
+    word-spacing: 2em;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+a:hover{
+    color: rgb(110, 180, 156);
+    text-decoration: underline ;
+    text-underline-offset: 10px;
+}
+
+.secondlink{
+    color: rgb(110, 180, 156);
+}
+
+.dropdown{
+    border: none;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-underline-offset: .7em;
+    text-decoration-color: rgb(110, 180, 156);
+    margin-top: 5em;
+}
+
+p{
+    text-align: center;
+    margin: 2.5em;
+}
+
+.img{
+    margin-left: 7em;
+    width:20em;
+    height:20em;
+    float: left;
+
+}
+h2{
+    margin-left:19em
+}
+
+.p1{
+    margin-left: 28.5em;
+    font-style: italic;
+    text-align: justify;
+}
+.bold{
+    font-weight: bold;
+}
+
+li{
+    list-style-type:disc;
+    padding:1em;
+    display: inline-table;
+}
+
+.down{
+    margin-left: 28.5em;
+    text-align: justify;
+}
+
+footer{
+    background-color: rgb(232, 225, 225);
+    padding: 4em;
+    text-align: center;
+}
+
+.number{
+    display:flex;
+    justify-content: center;
+}
