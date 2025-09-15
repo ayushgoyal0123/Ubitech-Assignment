@@ -1,0 +1,12 @@
+#bg{
+    background-color: rgb(240, 167, 162);
+}
+
+.r1{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.form{
+    font-style: italic;
+}
